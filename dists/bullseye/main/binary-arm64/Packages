@@ -1,0 +1,218 @@
+Package: linux-bootimage-4.4-0-xiaomi-jasmine-sprout
+Source: linux-android-xiaomi-jasmine-sprout
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 20090
+Pre-Depends: flash-bootimage (>= 4)
+Depends: linux-image-4.4-0-xiaomi-jasmine-sprout (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-jasmine-sprout/linux-bootimage-4.4-0-xiaomi-jasmine-sprout_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 19814240
+SHA256: fe42b6e5a8a3ca0aca3214db5f604a0e5b790a0ee422210ef7d856b16fe766fd
+SHA1: 89d3407f8a1025998c0ff5407f4e87aa4b95887c
+MD5sum: 19f6ec83f7b983594090c302ebcaca7b
+Description: Linux kernel for Xiaomi Mi A2 - Android Boot Image
+ This package contains the Linux kernel for the Xiaomi Mi A2 device.
+ .
+ Note: This package ships an Android Boot Image bundled with Halium's
+ initramfs.
+
+Package: linux-bootimage-4.4-0-xiaomi-wayne
+Source: linux-android-xiaomi-wayne
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 20091
+Pre-Depends: flash-bootimage (>= 4)
+Depends: linux-image-4.4-0-xiaomi-wayne (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-wayne/linux-bootimage-4.4-0-xiaomi-wayne_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 19814364
+SHA256: c315d95ac8ec23f8d9e7181c9c21c6e9eac2b3d634b9e500876cf71472538463
+SHA1: e24e3b2e5db4f33cab196dd7d52bbef19a1d1147
+MD5sum: c2c463c44c50d36934602ac2767409f3
+Description: Linux kernel for Xiaomi MI 6X - Android Boot Image
+ This package contains the Linux kernel for the Xiaomi MI 6X device.
+ .
+ Note: This package ships an Android Boot Image bundled with Halium's
+ initramfs.
+
+Package: linux-bootimage-xiaomi-jasmine-sprout
+Source: linux-android-xiaomi-jasmine-sprout
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 293
+Depends: linux-bootimage-4.4-0-xiaomi-jasmine-sprout (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-jasmine-sprout/linux-bootimage-xiaomi-jasmine-sprout_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 294952
+SHA256: 8f48f2a274e2c154f0b644ec8d357b39886ddf9a018177e5852b0956431aef91
+SHA1: f756bad423cbc2de55fc48a7d544811980d1a152
+MD5sum: 810f462ed96ddcebdb8b28bd9c63f1d0
+Description: Linux kernel for Xiaomi Mi A2 - Android Boot Image  (latest)
+ This package depends to the latest kernel bootimage available for the Xiaomi Mi A2.
+
+Package: linux-bootimage-xiaomi-wayne
+Source: linux-android-xiaomi-wayne
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 293
+Depends: linux-bootimage-4.4-0-xiaomi-wayne (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-wayne/linux-bootimage-xiaomi-wayne_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 294952
+SHA256: 5941b10cfc328cf47da4ee6154b2bea38d3d99648a4f115808f52613486572ed
+SHA1: 95e5a42707509eb174d5e9aba706df1b66c5489b
+MD5sum: ca925eac3a22462530d4dde3e3280240
+Description: Linux kernel for Xiaomi MI 6X - Android Boot Image  (latest)
+ This package depends to the latest kernel bootimage available for the Xiaomi MI 6X.
+
+Package: linux-headers-4.4-0-xiaomi-jasmine-sprout
+Source: linux-android-xiaomi-jasmine-sprout
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 48694
+Depends: linux-image-4.4-0-xiaomi-jasmine-sprout (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-jasmine-sprout/linux-headers-4.4-0-xiaomi-jasmine-sprout_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 7889028
+SHA256: b49ddd8c36b9e6d3ffede6e2bbb377ee119ac7e7ab57e22747b3030fbebe56fe
+SHA1: ebb83fb1df7814f1b30727b92e20f054081d987c
+MD5sum: 7baf69de06a3e246bf451abfe4c766ac
+Description: Linux kernel for Xiaomi Mi A2 - Headers
+ This package contains the Linux kernel headers for the Xiaomi Mi A2 device.
+
+Package: linux-headers-4.4-0-xiaomi-wayne
+Source: linux-android-xiaomi-wayne
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 48694
+Depends: linux-image-4.4-0-xiaomi-wayne (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-wayne/linux-headers-4.4-0-xiaomi-wayne_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 7883980
+SHA256: 6b43b213cc0735888ba22eab99b81ea89fb846f59a8134971833987d01bc0dd4
+SHA1: f2ea68ed55559b0bb9378fe3025e48efce9d3baa
+MD5sum: ddab84497b0e1bd876f22fa26457eaa7
+Description: Linux kernel for Xiaomi MI 6X - Headers
+ This package contains the Linux kernel headers for the Xiaomi MI 6X device.
+
+Package: linux-headers-xiaomi-jasmine-sprout
+Source: linux-android-xiaomi-jasmine-sprout
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 293
+Depends: linux-headers-4.4-0-xiaomi-jasmine-sprout (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-jasmine-sprout/linux-headers-xiaomi-jasmine-sprout_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 294924
+SHA256: 4238b2a86e46c76aa6be72ba11ce0ca2cbdc8f967bb84ea265ff3c5bf540720d
+SHA1: 9e008a9ca42a0c7b325324b8973a90ef43566bba
+MD5sum: 035b5ed55201fbbd7742af4b11ef7f92
+Description: Linux kernel for Xiaomi Mi A2 - Headers (latest)
+ This package depends to the latest kernel headers available for the Xiaomi Mi A2.
+
+Package: linux-headers-xiaomi-wayne
+Source: linux-android-xiaomi-wayne
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 293
+Depends: linux-headers-4.4-0-xiaomi-wayne (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-wayne/linux-headers-xiaomi-wayne_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 294936
+SHA256: 2095b54cf71525919f6b355975f16c904210028e2a61d8b5a698c6945f4474e5
+SHA1: d4c63496bff8f8a1a28450528793ba0b4b3ac1d3
+MD5sum: 77f686ab607b01f6f8d373a98b1ffa28
+Description: Linux kernel for Xiaomi MI 6X - Headers (latest)
+ This package depends to the latest kernel headers available for the Xiaomi MI 6X.
+
+Package: linux-image-4.4-0-xiaomi-jasmine-sprout
+Source: linux-android-xiaomi-jasmine-sprout
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 21617
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-jasmine-sprout/linux-image-4.4-0-xiaomi-jasmine-sprout_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 15929916
+SHA256: 27c80df0b4ad150042303ace25937105cff74cba3529f670b62b3234beb08d38
+SHA1: 8ddc27a44262d8bdcfed2ca8f752bffe549ff5ab
+MD5sum: d781b47e5664cd5174c1c5da205c87f8
+Description: Linux kernel for Xiaomi Mi A2
+ This package contains the Linux kernel for the Xiaomi Mi A2 device.
+ .
+ Note: This package only ships the kernel image and modules, you should probably
+ look at the linux-bootimage-4.4-0-xiaomi-jasmine-sprout package for a bootimage suitable
+ for Android boot loaders.
+
+Package: linux-image-4.4-0-xiaomi-wayne
+Source: linux-android-xiaomi-wayne
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 21617
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-wayne/linux-image-4.4-0-xiaomi-wayne_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 15930440
+SHA256: 5914ef5a1c7833ce16d47ab7856e8dbe975e60e2bef3c3b83b28915207a7d184
+SHA1: a0f965d3216a4d1e32dd3c64b57d3428a031b890
+MD5sum: cea4eae089d81cffffb0787b8fafa352
+Description: Linux kernel for Xiaomi MI 6X
+ This package contains the Linux kernel for the Xiaomi MI 6X device.
+ .
+ Note: This package only ships the kernel image and modules, you should probably
+ look at the linux-bootimage-4.4-0-xiaomi-wayne package for a bootimage suitable
+ for Android boot loaders.
+
+Package: linux-image-xiaomi-jasmine-sprout
+Source: linux-android-xiaomi-jasmine-sprout
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 293
+Depends: linux-image-4.4-0-xiaomi-jasmine-sprout (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-jasmine-sprout/linux-image-xiaomi-jasmine-sprout_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 294924
+SHA256: 35c2db503155aa7b51894d832cb76b08696a2fdd92bf352973f6a187d4f989c5
+SHA1: 7544427b608f276f2bfef6c8bc7928317b74f776
+MD5sum: 2e03c94edd188bbb739053605d4201c4
+Description: Linux kernel for Xiaomi Mi A2 (latest)
+ This package depends to the latest kernel image available for the Xiaomi Mi A2.
+
+Package: linux-image-xiaomi-wayne
+Source: linux-android-xiaomi-wayne
+Version: 0.0.0+git20210409141547.3fbfec0.bullseye
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 293
+Depends: linux-image-4.4-0-xiaomi-wayne (= 0.0.0+git20210409141547.3fbfec0.bullseye)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-xiaomi-wayne/linux-image-xiaomi-wayne_0.0.0+git20210409141547.3fbfec0.bullseye_arm64.deb
+Size: 294916
+SHA256: 02a9b55dbbe710bfc48afb18ba45c6f311d8e537d27709a2aae37e030a1e0d9c
+SHA1: 80270aafb3449b7f94be6084f4763b497e831b43
+MD5sum: 36beea8b66ef7327f4fac7e9da13d851
+Description: Linux kernel for Xiaomi MI 6X (latest)
+ This package depends to the latest kernel image available for the Xiaomi MI 6X.
+

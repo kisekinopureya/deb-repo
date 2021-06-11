@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: https://github.com/kisekinopureya/deb-repo
+Label: https://github.com/kisekinopureya/deb-repo
+Codename: bullseye
+Date: Fri, 11 Jun 2021 11:29:47 UTC
+Architectures: arm64
+Components: main
+Description: My Personal repository
+MD5Sum:
+ 703d5b54adc1a7ec54af35fbde6b7540 10040 main/binary-arm64/Packages
+ 6d9e6af23db92580cc08cc010675f997 1976 main/binary-arm64/Packages.gz
+ e27145ec786cac2f71bb3268e8d08c2a 173 main/binary-arm64/Release
+SHA1:
+ f3bb072748729fca2e36c0eb3275ca7bd348eb28 10040 main/binary-arm64/Packages
+ 235db6d83fb560d846046492a00f27ff920942b2 1976 main/binary-arm64/Packages.gz
+ 79ec2afd591e304bebac31c0a3c3b896d9214fde 173 main/binary-arm64/Release
+SHA256:
+ 9f9aec662b58d97b0fad3e11eda562dbf76f75d16062db504fb30c9db3979197 10040 main/binary-arm64/Packages
+ 3ad7d2d6ce87a58b6d2b54dbe0d8f42933c0b8894bc5c8cccd727bc92de69d66 1976 main/binary-arm64/Packages.gz
+ 429b47eebac57db9a1e8e0a15885e14b1c4a9e679190625146af37a22404388d 173 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE0QK4tsyw3d9vbVSqRQqOBzaWKOoFAmDDSSwACgkQRQqOBzaW
+KOp4IBAAyFqecd6PeSCxPFcFFUDDStzjc7EC61WdL5rJ537DaCf0hxQmPoVBERry
+XZNW3ojrZOdGvugWZtnqe52K5I2uQ0SayOOHgTe1jE0liMY812odyteKf5LI/TXG
+2pSat1SqzRRjVHDj+yxQHkQbDTOdCNEly+AE92qsk5tEfr0F7qbhJoPVUPAo+72b
+ZfX4gvTKWzOR+WjwRDZe6X8+Br1aRkJsFxWd4dBGwdk1Eqsk6e30T96Dk8nReyUD
+VDl68De+uvRuaINQo0DLUqZNwYCUvvaA6JPy+NEXIeonsC+ZonTwiGw5teIDibwv
+Xp+Q8Q0jO5kSuKUCqMLutvIHbPjQjSO1KKJKackx7ke8bTHA/JxOiQK6ZlI+oYwZ
+/QfSus/aWEQrNTYCNBkLyHd4ndqYJLmf67slpCoTYyOdZQAp0k4pc4wgSrnECs1o
+iWfESsSn/7tmnKtRNUMPTM8fdGyzId4c3ylctXWgobEL1IYbGvUSkHCwEPGm7PZd
+kvhGp5OS5n3knx+1jZYcX2vhF/KHCrqoNXNKeBSGl3PpsMtDW1UK/1aqJCERXOXQ
+3sdTvIDOau9HSg0OP6dtlDCz0yoFG+2idmKUyuoxvHRvTQq+5atws56drrEF4WUa
+Qm/KZkut0YFfnDgSv4EktyPjf4ZWkHfUYjtb11VuN0A1dDy0KZk=
+=cLQf
+-----END PGP SIGNATURE-----

@@ -1,0 +1,19 @@
+Origin: https://github.com/kisekinopureya/deb-repo
+Label: https://github.com/kisekinopureya/deb-repo
+Codename: bullseye
+Date: Fri, 11 Jun 2021 11:29:47 UTC
+Architectures: arm64
+Components: main
+Description: My Personal repository
+MD5Sum:
+ 703d5b54adc1a7ec54af35fbde6b7540 10040 main/binary-arm64/Packages
+ 6d9e6af23db92580cc08cc010675f997 1976 main/binary-arm64/Packages.gz
+ e27145ec786cac2f71bb3268e8d08c2a 173 main/binary-arm64/Release
+SHA1:
+ f3bb072748729fca2e36c0eb3275ca7bd348eb28 10040 main/binary-arm64/Packages
+ 235db6d83fb560d846046492a00f27ff920942b2 1976 main/binary-arm64/Packages.gz
+ 79ec2afd591e304bebac31c0a3c3b896d9214fde 173 main/binary-arm64/Release
+SHA256:
+ 9f9aec662b58d97b0fad3e11eda562dbf76f75d16062db504fb30c9db3979197 10040 main/binary-arm64/Packages
+ 3ad7d2d6ce87a58b6d2b54dbe0d8f42933c0b8894bc5c8cccd727bc92de69d66 1976 main/binary-arm64/Packages.gz
+ 429b47eebac57db9a1e8e0a15885e14b1c4a9e679190625146af37a22404388d 173 main/binary-arm64/Release

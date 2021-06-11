@@ -1,0 +1,7 @@
+Origin: https://github.com/kisekinopureya/deb-repo
+Label: https://github.com/kisekinopureya/deb-repo
+Codename: bullseye
+Architectures: arm64
+Components: main
+Description: My Personal repository
+SignWith: CFA0EA78
